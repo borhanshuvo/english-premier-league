@@ -1,0 +1,31 @@
+.social-tag-twitter{
+    color: rgb(29, 161, 42);
+    width: 30px;
+    height: 30px;
+}
+.social-tag-facebook{
+    color: rgb(59, 89, 152);
+    width: 30px;
+    height: 30px;
+}
+.social-tag-youtube{
+    color: rgb(255, 0, 0);
+    width: 30px;
+    height: 30px;
+}
+.card-body{
+    background-color: rgb(252, 77, 87);
+    padding: 20px 10px;
+    color: white;
+    border-radius: 20px;
+}
+.badge-image{
+    width: 250px;
+    height: 250px;
+    margin-top: -300px;
+    margin-bottom: 150px;
+}
+.thumb-image{
+    width: 100%;
+    height: 500px;
+}
