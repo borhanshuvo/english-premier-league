@@ -34,7 +34,7 @@ const TeamDetail = () => {
             <img src={info.strTeamBadge} className="badge-image" alt="" />
             <div className="container">
                 <div className="mt-5">
-                    <div className="row card-body">
+                    <div className="row detail-card-body">
                         <div className="col-md-6 text-start" style={{ paddingTop: '50px', paddingLeft: '100px' }}>
                             <h1>{info.strTeam}</h1>
                             <p><FontAwesomeIcon icon={faMapMarkerAlt} /> Founded : {info.intFormedYear}</p>
